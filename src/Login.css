@@ -1,0 +1,47 @@
+/* Estilos de la página */
+.login-container {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #99AE51;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: center;
+    /* Centramos horizontal y verticalmente */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #99AE51;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #99AE51;
+    border-radius: 3px;
+  }
+  
+  .login-button {
+    background-color: #C20E1A;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .login-button:hover {
+    background-color: #a30f16;
+  }
+  

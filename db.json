@@ -1,0 +1,43 @@
+{
+  "patients": [
+    {
+      "id": "fe49",
+      "name": "Rafael Gonzalezz",
+      "age": "20",
+      "condition": "Normal",
+      "fechaNacimiento": "2024-12-01",
+      "telefono": "0963710214",
+      "direccion": "nada",
+      "tipoSangre": "A-",
+      "alergias": "Ninguna",
+      "CI": "1351140072",
+      "observaciones": "Todo Bien444"
+    },
+    {
+      "id": "3ef8",
+      "name": "Jose Bravo",
+      "age": "19",
+      "condition": "Normal",
+      "fechaNacimiento": "2021-06-16",
+      "telefono": "0962577264",
+      "direccion": "Las Cumbres",
+      "tipoSangre": "O+",
+      "alergias": "Ninguna",
+      "CI": "1351140788",
+      "observaciones": "Ninguna"
+    },
+    {
+      "id": "d72e",
+      "name": "Rafael Gonzalezz",
+      "age": "20",
+      "condition": "Dolor de cabeza",
+      "fechaNacimiento": "2024-12-02",
+      "telefono": "0963710214",
+      "direccion": "nada",
+      "tipoSangre": "O+",
+      "alergias": "Ninguna",
+      "CI": "1351140072",
+      "observaciones": "Ninguna"
+    }
+  ]
+}

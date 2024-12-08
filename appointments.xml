@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<appointments>
+  <appointment>
+    <id>1733064701466</id>
+    <patientId>fe49</patientId>
+    <date>2024-12-08</date>
+    <time>09:50</time>
+    <reason>Dolor en los dientes</reason>
+    <symptoms>Fuerte dolor en los dientes</symptoms>
+    <preliminaryDiagnosis>caries</preliminaryDiagnosis>
+    <treatment>Quitar el diente</treatment>
+    <recommendations>No comer dulces</recommendations>
+    <nextAppointmentDate>2024-12-15</nextAppointmentDate>
+    <doctorNotes>Paciente no se cuida</doctorNotes>
+    <radiographyPath>uploads\file-1733064701449-532060930.pdf</radiographyPath>
+  </appointment>
+  <appointment>
+    <id>1733065345624</id>
+    <patientId>3ef8</patientId>
+    <date>2024-11-03</date>
+    <time>10:01</time>
+    <reason>Dolor dental intenso</reason>
+    <symptoms>Dolor constante en la muela superior derecha</symptoms>
+    <preliminaryDiagnosis>Caries avanzada</preliminaryDiagnosis>
+    <treatment>Realizar endodoncia</treatment>
+    <recommendations>Evitar alimentos duros y mantener buena higiene dental</recommendations>
+    <nextAppointmentDate>2024-12-14</nextAppointmentDate>
+    <doctorNotes>El paciente necesita seguir las indicaciones para evitar mayores complicaciones.</doctorNotes>
+    <radiographyPath>uploads\file-1733065345610-478619552.pdf</radiographyPath>
+  </appointment>
+</appointments>

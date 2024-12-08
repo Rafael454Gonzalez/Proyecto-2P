@@ -1,0 +1,89 @@
+.appointments-container {
+    padding: 20px;
+  }
+  
+  .appointment-item {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .appointment-summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .expanded-info {
+    margin-top: 10px;
+    background-color: #fff;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+  }
+  
+  .appointment-form {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+ /* Estilos generales para los botones */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  button:hover {
+    transform: scale(1.05);
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  /* Estilo para el botón 'Ver Más' y 'Ver Menos' */
+  button {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  button:hover {
+    background-color: #a70202;
+  }
+  
+  button:active {
+    background-color: #004085;
+  }
+  
+
+
+  
